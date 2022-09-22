@@ -1,16 +1,3 @@
-# Advanced Programming - HW3
-<p  align="center"> <b>Homework 3 - Spring 2022 Semester <br> Deadline: Sunday Farvardin 14st - 11:59 pm</b> </p>
-
-## Outline
-
-In this homework we are going to implement a *Binary Search Tree (BST)*. A *binary tree* is a tree graph in which nodes can only have upto 2 children. A *Binary Search Tree* is a binary tree in which the right child of each node have a greater value than the left one.
-
-We are going to implement 2 classes one of them is called `Node` which represents each node in the graph, and the other one is `BST` which is responsible to conncet nodes in a  way to construct a binary search tree. Since the `Node` class is a direct property of the `BST` class; It should be defined inside the BST class.
-
-**note.** You are only allowed  to alter `bst.cpp/h` and only the debug section of `main.cpp`. 
-
-</br>
-
 # Node Class
 Use the code fraction bellow to implement this class. **note.** you may need to add some keywords to these functions if necessary. other than these keywords you are not allowed to change the functions or add new member functions to this class **unless otherwise specified in the following**.
 
